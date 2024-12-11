@@ -4,7 +4,7 @@ int main()
 {
 	cout << "C867- Scripting & Programming: Applications";
 	cout << "\n" << "Language: C++" << "\n";
-	cout << "Student ID: 012311809" << "\n" << "Name: Indira lastname\n";
+	cout << "Student ID: 00000000" << "\n" << "Name: Indira lastname\n";
 
 	const string studentData[] = {
 
